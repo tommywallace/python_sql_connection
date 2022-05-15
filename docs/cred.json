@@ -1,0 +1,7 @@
+{
+    "uid":"USER",
+    "pwd":"PASSWORD",
+    "srv":"SERVER",
+    "prt":"PORT",
+    "db":"DATABASE"
+}
