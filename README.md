@@ -1,5 +1,5 @@
 # python_sql_connection
-Extremely simple script to run SQL queries using Python
+Extremely simple script to run SQL queries using Python and pyodbc
 
 Enter SQL database information in docs/cred.json
 
