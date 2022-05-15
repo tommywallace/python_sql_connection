@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import scripts.db_conn as db_conn
 from datetime import datetime,timedelta
 import logging
